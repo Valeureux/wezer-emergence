@@ -1,1 +1,3 @@
-[Image](http://i.imgur.com/JwjiHjS.png)
+![Image](http://i.imgur.com/JwjiHjS.png)
+
+Wezer #emergence
